@@ -6,7 +6,6 @@ Data is fetched from Yahoo Finance using the `yfinance` library, and charts are 
 
 ## Screenshot
 
-*(Optional: Add a screenshot of the running app here)*
 ![App Screenshot](images/screenshot.png)
 
 ## Setup
